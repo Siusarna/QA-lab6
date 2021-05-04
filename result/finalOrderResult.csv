@@ -1,0 +1,7 @@
+id,paymentMethod,kitchenNotes,tableId
+92,online,test-migration,5
+92,online,test-migration,
+test_result,correct,commit,
+93,online,test-migration,6
+93,online,test-migration,
+test_result,correct,commit,
